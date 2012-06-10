@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WOOD()
+comment1.params=evt
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=treesStart
+comment2.target=void\ createRandomStart(int)
+comment3.params=
+comment3.target=void\ startSimulation()
+comment4.params=
+comment4.target=void\ stopSimulation()
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment6.params=
+comment6.target=void\ next()
+comment7.params=xTree\ yTree
+comment7.target=void\ plantTree(int,\ int)
+comment8.params=
+comment8.target=double\ getAverageAge()
+comment9.params=xTree\ yTree
+comment9.target=int\ getAgeOfTree(int,\ int)
+numComments=10

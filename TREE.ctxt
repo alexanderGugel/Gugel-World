@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=xStart\ yStart
+comment0.target=TREE(int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=int\ getAge()
+comment4.params=
+comment4.target=void\ olden()
+numComments=5
